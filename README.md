@@ -1,6 +1,11 @@
-# Welcome! 😄
-<img src="cool_cat.jpg" alt="cool cat" width="200"/>
-Caption: This is generated🙀 using stable diffusion with the prompt: "kneeling cat knight, portrait, finely detailed armor, intricate design, silver, silk, cinematic lighting, 4k", [credit](https://hostux.social/@valere/108939000926741542)
+# Welcome! 😄 
+
+<p align="center">
+<img src="cool_cat.jpg" alt="cool cat" width="500" class="center" />
+
+Caption: This is generated🙀 using stable diffusion with the prompt: *"kneeling cat knight, portrait, finely detailed armor, intricate design, silver, silk, cinematic lighting, 4k"*, [credit](https://hostux.social/@valere/108939000926741542)
+</p>
+
 
 
 #### 👷🏻‍♀️ I'm a computer science student who loves to build things. 
