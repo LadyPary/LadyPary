@@ -23,8 +23,11 @@
 
 ps. Jupiter notebooks are all in Python3.
 
-I can **code in**:
-<img src="Work_in.jpg" alt="code in" width="300" class="center" />
+### I can **code in**:
 
-I can **code with**: 
-<img src="Code_with.jpg" alt="code with" width="300" class="center" />
+<img src="Work_in.jpg" alt="code in" width="500" class="center" />
+
+
+### I can **code with**: 
+
+<img src="Code_with.jpg" alt="code with" width="400" class="center" />
