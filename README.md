@@ -7,14 +7,14 @@
 </p>
 
 
+#### About Me:
+👷🏻‍♀️ I'm a computer science student who loves to build things. 
 
-#### 👷🏻‍♀️ I'm a computer science student who loves to build things. 
+🤓 Technology and cats are what I live for (refer to the picture above 😅).
 
-#### 🤓 Technology and cats are what I live for (refer to the picture above 😅).
+✍🏻 Feel free to fork or use my codes. I always document and/or comment my codes so that everything is crystal clear. 
 
-#### ✍🏻 Feel free to fork or use my codes. I always document and/or comment my codes so that everything is crystal clear. 
-
-#### 📫 To reach me, you can email me at: parisa.rabbany.pr@gmail.com
+📫 To reach me, you can email me at: parisa.rabbany.pr@gmail.com
 
 
 #### Here is a summary of my gitHub activity:
