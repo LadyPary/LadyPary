@@ -7,7 +7,7 @@
 </p>
 
 
-#### About Me:
+### About Me:
 👷🏻‍♀️ I'm a computer science student who loves to build things. 
 
 🤓 Technology and cats are what I live for (refer to the picture above 😅).
@@ -17,7 +17,7 @@
 📫 To reach me, you can email me at: parisa.rabbany.pr@gmail.com
 
 
-#### Here is a summary of my gitHub activity:
+### Here is a summary of my gitHub activity:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyPary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
