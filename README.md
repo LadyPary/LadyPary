@@ -1,5 +1,5 @@
 # Welcome! 😄
-![image](https://user-images.githubusercontent.com/67644299/190920669-5d7460fe-6724-4928-b1ad-14201f2fbdf7.png)
+<img src="cool_cat.jpg" alt="cool cat" width="200"/>
 Caption: This is generated🙀 using stable diffusion with the prompt: "kneeling cat knight, portrait, finely detailed armor, intricate design, silver, silk, cinematic lighting, 4k", [credit](https://hostux.social/@valere/108939000926741542)
 
 
