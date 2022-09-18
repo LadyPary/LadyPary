@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome! 😄
+![image](https://user-images.githubusercontent.com/67644299/190920669-5d7460fe-6724-4928-b1ad-14201f2fbdf7.png)
+Caption: This is generated🙀 using stable diffusion with the prompt: "kneeling cat knight, portrait, finely detailed armor, intricate design, silver, silk, cinematic lighting, 4k", [credit](https://hostux.social/@valere/108939000926741542)
 
-<!--
-**LadyPary/LadyPary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 👷🏻‍♀️ I'm a computer science student who loves to build things. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤓 Technology and cats are what I live for (refer to the picture above 😅).
+
+#### ✍🏻 Feel free to fork or use my codes. I always document and/or comment my codes so that everything is crystal clear. 
+
+#### 📫 To reach me, you can email me at: parisa.rabbany.pr@gmail.com
+
+
+#### Here is a summary of my gitHub activity:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyPary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ps. Jupiter notebooks are all in Python3.
+
