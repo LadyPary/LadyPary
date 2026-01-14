@@ -17,7 +17,7 @@
 💬 **[From Fact to Judgment](https://arxiv.org/abs/2511.10871)** — investigating task framing effects on LLM conviction (IWSDS'26)
 
 ---
-*My baby Blu 🐱*
+*My baby Blu 💙*
 
 <img src="blu.png" width="250">
 
