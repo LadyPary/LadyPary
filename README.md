@@ -8,7 +8,7 @@
 
 📫 Reach me at: **rabbani8@illinois.edu**
 
-🌐 [Website](https://ladypary.webflow.io) · [Google Scholar](https://scholar.google.com/citations?user=cwlvsZUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/parisa-rabbani-b90a321b4/)
+🌐 [Website](https://ladypary.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=cwlvsZUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/parisa-rabbani-b90a321b4/)
 
 ---
 *My baby Blu 💙*
